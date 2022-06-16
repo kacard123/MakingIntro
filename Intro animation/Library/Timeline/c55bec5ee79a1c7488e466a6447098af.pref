@@ -16,7 +16,7 @@ MonoBehaviour:
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 40.1346393271815
+  windowTime: 0
   verticalScroll: 0
   showMarkerHeader: 0
   sequencerHeaderWidth: 315
@@ -26,8 +26,8 @@ MonoBehaviour:
   - {fileID: 3462502252373154963, guid: c55bec5ee79a1c7488e466a6447098af, type: 2}
   - {fileID: 3957881315293308941, guid: c55bec5ee79a1c7488e466a6447098af, type: 2}
   - {fileID: 1579569881551470422, guid: c55bec5ee79a1c7488e466a6447098af, type: 2}
-  - {fileID: -3864528363688632262, guid: c55bec5ee79a1c7488e466a6447098af, type: 2}
   - {fileID: -3678079337638334338, guid: c55bec5ee79a1c7488e466a6447098af, type: 2}
+  - {fileID: 1710256030783810611, guid: c55bec5ee79a1c7488e466a6447098af, type: 2}
   m_Vals:
   - collapsed: 0
     showMarkers: 1
