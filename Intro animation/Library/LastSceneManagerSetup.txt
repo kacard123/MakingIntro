@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/01. Scenes/Main_Room_01.unity
+- path: Assets/01. Scenes/Intro Dialogue_Test.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
