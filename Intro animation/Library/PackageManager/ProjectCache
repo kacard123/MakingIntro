@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637914657536458329
+      ticks: 637920020000000000
     m_Hash: 847269142
   m_LockFileStatus:
     m_FilePath: D:/GitHub/MakingIntro/Intro animation/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637914657537485577
+      ticks: 637920020000000000
     m_Hash: 2606741046
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
